@@ -1,0 +1,60 @@
+/*
+    Colors and styles on cards are from bootstrap
+
+    colors:
+    https://getbootstrap.com/docs/4.5/getting-started/theming/#css-variables
+
+    cards:
+    https://getbootstrap.com/docs/4.5/components/card/
+*/
+
+.card {
+  margin-bottom: 25px;
+  border-color: var(--blue);
+  border-width: 7px;
+  border-radius: 25px;
+  background-color: snow;
+  font-family: 'Poppins', sans-serif;  
+}
+
+.card-header{
+  background-color: var(--blue);
+  color: var(--white);
+  font-family: 'Poppins', sans-serif;  
+}
+
+.divider {
+  border-color: var(--primary);
+  background-color: var(--primary);
+  text-align: center;
+}
+
+h1{
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-weight: bolder;
+  text-size-adjust: 700px; 
+}
+
+h1 span{
+  background-size: auto;
+  background-color: #007bff;
+  padding: 10px;
+  border-color: #007bff;  
+  border-radius: 25px;
+}
+
+
+
+body{
+  background-image: url("books.jpeg");
+  background-size: 700px 700px;
+
+}
+
+.head{
+  color: black;
+}
