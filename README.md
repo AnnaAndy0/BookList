@@ -1,7 +1,7 @@
 <h4> Book List </h4>
 
 <h5> Description:</h5>  
-<p>Using Javascript, CSS, HTML, and Bootstrap a personal collection of top books and recommendations was curated</p> 
+<p>Using Javascript, CSS, HTML, and Bootstrap a personal collection of top books and recommendations was curated.</p> 
 
 <h4> Installation: </h4>
 <p> To check out the page or my recommendations, simply save the files and open up the index.html file in your browser or live server option. Enjoy! </p>
